@@ -25,7 +25,7 @@ require (
 	github.com/bhendo/go-powershell v0.0.0-20190719160123-219e7fb4e41e
 	github.com/billputer/go-namecheap v0.0.0-20210108011502-994a912fb7f9
 	github.com/centralnicgroup-opensource/rtldev-middleware-go-sdk/v3 v3.5.6
-	github.com/cloudflare/cloudflare-go v0.86.0
+	github.com/cloudflare/cloudflare-go v0.89.0
 	github.com/digitalocean/godo v1.108.0
 	github.com/ditashi/jsbeautifier-go v0.0.0-20141206144643-2520a8026a9c
 	github.com/dnsimple/dnsimple-go v1.5.1
@@ -52,8 +52,8 @@ require (
 	github.com/transip/gotransip/v6 v6.23.0
 	github.com/urfave/cli/v2 v2.27.1
 	github.com/xddxdd/ottoext v0.0.0-20221109171055-210517fa4419
-	golang.org/x/crypto v0.18.0 // indirect
-	golang.org/x/net v0.20.0
+	golang.org/x/crypto v0.19.0 // indirect
+	golang.org/x/net v0.21.0
 	golang.org/x/oauth2 v0.16.0
 	google.golang.org/api v0.157.0
 	gopkg.in/ns1/ns1-go.v2 v2.7.11
@@ -149,7 +149,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.21.0 // indirect
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/sync v0.6.0 // indirect
-	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/sys v0.17.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/tools v0.17.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
